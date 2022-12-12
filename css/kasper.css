@@ -58,3 +58,5 @@ body {
     margin-bottom: 70px;
     text-transform: uppercase;
   }
+  .main-heading h2::before {
+  }
