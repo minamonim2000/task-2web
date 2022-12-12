@@ -90,4 +90,5 @@ body {
   /* End Components */
   /* Start Header */
   header {
+    position: absolute;
   }
