@@ -102,3 +102,5 @@ body {
     position: relative;
     min-height: 97px;
   }
+  header .container::after {
+  }
