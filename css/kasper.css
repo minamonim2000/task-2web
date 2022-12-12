@@ -29,4 +29,6 @@ body {
     margin-right: auto;    
   }
   /* Small */
-  @media (min-width: 768px)
+  @media (min-width: 768px) {
+    .container {
+        
