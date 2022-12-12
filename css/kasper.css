@@ -105,4 +105,5 @@ body {
   header .container::after {
     content: "";
     position: absolute;
+    height: 1px;
   }
