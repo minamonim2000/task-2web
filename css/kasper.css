@@ -68,3 +68,5 @@ body {
     bottom: -30px;
     width: 120px;
   }
+  .main-heading h2::after {
+  }
