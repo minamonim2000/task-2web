@@ -182,5 +182,6 @@ header nav .form i {
 /* End Header */
 /* Start Landing */
 .landing {
+  min-height: 100vh;
 }
 
