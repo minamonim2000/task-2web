@@ -104,4 +104,5 @@ body {
   }
   header .container::after {
     content: "";
+    position: absolute;
   }
