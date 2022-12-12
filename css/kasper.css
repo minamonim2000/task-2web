@@ -106,4 +106,5 @@ body {
     content: "";
     position: absolute;
     height: 1px;
+    background-color: #a2a2a2;
   }
